@@ -7,7 +7,7 @@
  * contains SMS Sending class for the AppZone
  */
 
-include_once "log.php";
+//include_once "log.php";
 
 class AppZoneSender{
 	var $server;
