@@ -1,0 +1,17 @@
+This is The PHP API Wrapper for the mchoice-aventura 
+which is underline platform behind appzone.lk
+
+Author: Arunoda Susiripala <arunoda.susiripala@gmail.com>
+
+This api contains two major classes
+* AppZoneSender
+* AppZoneReciever
+
+which does sending and recieving SMS.
+
+And you can have a look at samples
+
+* sending sms -> send.php
+* recieving sms and sending back -> recieve.php
+
+
