@@ -3,7 +3,7 @@
 /**
  * Listen to the AppZone MO Message and reply back
  */
-
+include_once 'AppZoneSender.php';
 include_once 'AppZoneReciever.php';
 include_once 'log.php';
 
