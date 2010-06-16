@@ -1,0 +1,14 @@
+########################### ruby - MoHandler ##############################
+
+Environment :
+=============
+1). netbeans 6.5
+2). ruby 1.9
+3). SDP MO simulator
+
+How to run the server
+
+1). load the project to netbeans
+2). run MoHandler.rb
+3). start the Mo simulator
+4). send HTTP POST request to http://localhost:8002/MoHandler
