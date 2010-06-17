@@ -1,0 +1,10 @@
+########################### ruby - sms_mt  ##############################
+
+Environment :
+=============
+1). netbeans 6.5
+2). ruby 1.9
+3). SDP MO simulator
+
+how to send sms
+1). run the  Sms_Mt. it  will send the sms.
