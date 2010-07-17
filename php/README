@@ -11,7 +11,7 @@ which does sending and recieving SMS.
 
 And you can have a look at samples
 
-* sending sms -> send.php
-* recieving sms and sending back -> recieve.php
+* sending sms -> sample/send.php
+* recieving sms and sending back -> sample/recieve.php
 
 

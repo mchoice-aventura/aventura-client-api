@@ -4,7 +4,7 @@
 	 * StandAlone SMS Sending
 	 */
 
-	include_once 'AppZoneSender.php';
+	include_once '../AppZoneSender.php';
 	
 	$sender=new AppZoneSender(
 		"http://localhost:65182", 
