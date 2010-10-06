@@ -71,7 +71,7 @@ class AppZoneSender{
 	}
 	
 	private function getAuthHeader(){
-		$auth=$this->username . ':' . md5($this->password);
+		$auth=$this->username . ':' . $this->password;
 		$auth=base64_encode($auth);
 		return 'Authorization: Basic ' . $auth;
 	}
